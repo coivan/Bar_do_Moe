@@ -24,10 +24,6 @@ footer {
     font-size: 0.9em;
 }
 
-footer a {
-    text-decoration: none;
-}
-
 .input-foto {
     display: none;
 }
@@ -41,7 +37,9 @@ footer a {
     padding: 5px;
 }
 
-
+a {
+    text-decoration: none;
+}
 
 .menu ul {
     list-style-type: none;
@@ -67,7 +65,6 @@ footer a {
     padding-top: 16px;
     padding-right: 14px;
     padding-bottom: 16px;
-    text-decoration: none;
 }
 
 .menu ul li a:hover {
